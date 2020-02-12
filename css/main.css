@@ -21,11 +21,12 @@ body {
   margin: 0;
 }
 
-header {
+.section-grey {
   background-color: #e2e2e2;
 }
 
-h1, nav {
+h1,
+nav {
   text-align: center;
 }
 
@@ -33,19 +34,19 @@ nav li {
   display: inline-block;
 }
 
-nav a {
+a {
   color: #0074d9;
   text-decoration: none;
 }
 
-a:hover, .planets {
+a:hover,
+a:focus,
+.planets {
   background-color: #0074d9;
   color: #fff;
 }
 
-nav:hover {
-  background-color: #e2e2e2;
-}
+
 
 @media only screen and (min-width: 38em) {
 
