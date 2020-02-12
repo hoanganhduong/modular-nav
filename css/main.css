@@ -40,13 +40,16 @@ a {
 }
 
 a:hover,
-a:focus,
-.planets {
+a:focus {
   background-color: #0074d9;
   color: #fff;
 }
 
-
+.planets {
+  background-color: #0074d9;
+  color: #fff;
+}
+}
 
 @media only screen and (min-width: 38em) {
 
