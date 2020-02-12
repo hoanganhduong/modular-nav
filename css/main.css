@@ -25,7 +25,7 @@ header {
   background-color: #e2e2e2;
 }
 
-h1, nav  {
+h1, nav {
   text-align: center;
 }
 
@@ -41,6 +41,10 @@ nav a {
 a:hover, .planets {
   background-color: #0074d9;
   color: #fff;
+}
+
+nav:hover {
+  background-color: #e2e2e2;
 }
 
 @media only screen and (min-width: 38em) {
