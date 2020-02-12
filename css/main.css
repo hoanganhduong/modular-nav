@@ -45,11 +45,6 @@ a:focus {
   color: #fff;
 }
 
-.planets {
-  background-color: #0074d9;
-  color: #fff;
-}
-
 @media only screen and (min-width: 38em) {
 
   h1 {
